@@ -24,5 +24,5 @@ DBTable instances contain a schema table, a data table, and a name.
 
 1. Develop methods in DBCommMaster to validate user supplied data matches field type.
 2. Better error hanlding for db connections
-3. Test error writers, complete development of filewriter
+3. Implement error writers in DBCommMaster, complete development of filewriter
 
