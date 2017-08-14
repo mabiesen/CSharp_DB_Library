@@ -6,7 +6,7 @@ Library will be interfaced appropriately to allow user to switch between databas
 
 ### Structure is as follows:
 
-DBCommMaster is the main class which will drive all interaction.  When users require additional functionality and/or swaps between interfaces, they make those changes here.  The DBCommMaster also provides async wrappers for methods which require database interaction.
+DBCommMaster is the main class which will drive all interaction.  When users require additional functionality and/or swaps between interfaces, they make those changes here.  The DBCommMaster also provides async wrapper methods for methods which require database interaction.  Async was left as a choice.
 
 DBCommMaster interfaces are supplied as inputs on DBCommMaster object instantiation.  A connection string is also supplied.
 
