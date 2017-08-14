@@ -18,7 +18,7 @@ DBTable instances contain a schema table, a data table, and a name.
 
 ### Accomplishments as of first commit
 
-1. Successful unit testing of DB, DBTables, SQLConnection, TypeValidation
+1. Successful unit testing of DB, DBTables, SQLConnection, TypeValidation, DBCommMaster
 
 ### TODO as of first commit
 
